@@ -1,6 +1,6 @@
 # E-Ink Display
 
-`display.py`: Displays all informations on the display
+`display.py`: Displays all informations on the display \
 `clear.py`: Clears the display
 
 ## Documentation
